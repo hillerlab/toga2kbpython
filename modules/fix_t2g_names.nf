@@ -1,7 +1,7 @@
 nextflow.enable.types = true
 
 process fix_t2g_names {
-    conda "anaconda::click,networkx"
+    conda "anaconda::click anaconda::networkx"
 
     input:
     record(
