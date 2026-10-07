@@ -4,7 +4,7 @@ Distributed under the terms of the Apache License, Version 2.0.
 
 Author: Yury V. Malovichko
 Credits: Xueling Yi, Alejandro Gonzales-Iribarren
-Version: v0.2
+Version: v0.3
 */
 
 include { process_input_line } from "./modules/types.nf"
